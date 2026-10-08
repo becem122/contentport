@@ -1,0 +1,9 @@
+# NEVER commit patient-level data or pipeline outputs
+copie_files_no_patient/
+data/
+outputs/
+*.csv
+*.csv.gz
+*.parquet
+organism_review_*.xlsx
+.ipynb_checkpoints/
